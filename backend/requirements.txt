@@ -1,0 +1,8 @@
+fastapi
+pydantic
+uvicorn
+motor
+typing-extensions
+python-jose
+cryptography
+python-dotenv

@@ -1,0 +1,20 @@
+<svg width="49" height="48" viewBox="0 0 49 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Asset">
+<g id="object">
+<rect id="shadow" x="7.15625" y="40.9243" width="26.4392" height="1.99541" rx="0.997704" fill="#96D953" fill-opacity="0.3"/>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M5.44321 8C3.90995 8 2.66699 9.24296 2.66699 10.7762V24.6573C2.66699 26.1906 3.90995 27.4335 5.44321 27.4335H23.3725L27.7451 33.2636C28.0119 33.6194 28.578 33.4307 28.578 32.986V27.4335H31.8173C33.3506 27.4335 34.5935 26.1906 34.5935 24.6573V10.7762C34.5935 9.24296 33.3506 8 31.8173 8H5.44321Z" fill="#89CA47"/>
+<rect id="Rectangle 4320" x="41.3994" y="13.0854" width="5.53224" height="25.1465" transform="rotate(20.7451 41.3994 13.0854)" fill="#72B430"/>
+<path id="Intersect" fill-rule="evenodd" clip-rule="evenodd" d="M36.2552 38.0274L45.1624 14.5112L46.5722 15.0452L37.665 38.5614L36.2552 38.0274Z" fill="#89CA47"/>
+<path id="Intersect_2" fill-rule="evenodd" clip-rule="evenodd" d="M32.4922 36.6021L41.3994 13.0859L42.8092 13.6199L33.902 37.1361L32.4922 36.6021Z" fill="#599221"/>
+<path id="Vector 1268" d="M33.4243 42.6595L32.4919 36.6018L37.6655 38.5614L33.4243 42.6595Z" fill="#C6EC9F"/>
+<path id="Intersect_3" fill-rule="evenodd" clip-rule="evenodd" d="M33.1169 40.6624L33.4243 42.6594L34.8225 41.3084L33.1169 40.6624Z" fill="#00C52B"/>
+<path id="Rectangle 4324" d="M41.3991 13.0855C41.9412 11.6543 43.5408 10.9336 44.972 11.4757C46.4031 12.0177 47.1239 13.6174 46.5818 15.0486L41.3991 13.0855Z" fill="#96D953"/>
+<path id="Intersect_4" opacity="0.5" fill-rule="evenodd" clip-rule="evenodd" d="M18.3926 8L29.938 27.2424H32.8316C33.8632 26.8373 34.5935 25.8326 34.5935 24.6573V22.1165L26.9161 8H18.3926Z" fill="#A4E860"/>
+<path id="Intersect_5" fill-rule="evenodd" clip-rule="evenodd" d="M28.5775 32.8539L23.4198 25.6905C17.9368 25.794 6.66037 25.9388 5.41892 25.6905C3.73077 25.3529 3.10453 23.7285 2.6665 22.3899V24.6573C2.6665 26.1905 3.90946 27.4335 5.44272 27.4335H23.3721L27.7446 33.2635C28.0114 33.6193 28.5775 33.4306 28.5775 32.9859V32.8539Z" fill="#72B430"/>
+<path id="Intersect_6" fill-rule="evenodd" clip-rule="evenodd" d="M34.5923 24.729C34.0776 25.4832 33.3797 25.6906 33.0413 25.6906H28.6963V27.4336H31.817C33.3263 27.4336 34.5544 26.2292 34.5923 24.729Z" fill="#72B430"/>
+<circle id="Ellipse 616" cx="11.9369" cy="17.0004" r="2.17252" fill="white"/>
+<circle id="Ellipse 617" cx="26.8344" cy="17.0004" r="2.17252" fill="white"/>
+<circle id="Ellipse 618" cx="19.3857" cy="17.0004" r="2.17252" fill="white"/>
+</g>
+</g>
+</svg>
