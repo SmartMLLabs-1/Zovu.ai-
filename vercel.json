@@ -2,8 +2,8 @@
   "version": 2,
   "builds": [
     {
-      "src": "frontend/Dockerfile",
-      "use": "@vercel/docker"
+      "src": "frontend/package.json",
+      "use": "@vercel/node"
     }
   ]
 }
